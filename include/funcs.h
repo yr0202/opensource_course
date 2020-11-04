@@ -3,5 +3,6 @@
 
 void foo();
 void my_stable_function();
+void my_experiment_function();
 
 #endif
