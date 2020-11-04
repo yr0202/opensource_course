@@ -8,5 +8,5 @@ void foo()
 
 void my_experiment_function()
 {
-	printf("some experiment..\n);
+	printf("some experiment..\n");
 }
